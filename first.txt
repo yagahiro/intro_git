@@ -3,3 +3,4 @@ second
 third
 .get rm
 .git status
+.git diff
